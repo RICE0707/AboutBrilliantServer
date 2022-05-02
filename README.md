@@ -10,7 +10,7 @@
 > 並且伺服器提倡玩家自主，玩家與玩家間互助來運作伺服器的一切
  # 基本資訊
 - Java|Bedrock 連線位置: ` Brilliantw.net `
-- Bedrock 連續端口: ` 19132 ~
+- Bedrock 連續端口: ` 19132 `
 - Java 連線版本: ` 1.18.2 `
 - Server 人數上限: ` 100 `
 - Server 正版驗證: ` 開啟 `
